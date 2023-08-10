@@ -1,0 +1,1 @@
+si la la carpeta esta vacia, git no reconoce la carpeta
